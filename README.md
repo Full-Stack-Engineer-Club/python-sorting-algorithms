@@ -2,3 +2,4 @@
 #### List of programs available here :
  - Bubble Sort
  - Insertion Sort
+ - Heap Sort
