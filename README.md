@@ -3,7 +3,7 @@
  - Bubble Sort
  - Insertion Sort
  - Heap Sort
- - Python Program for simple interest
+ - Maximum of two numbers in Python
  - Python Program for simple interest
  - Python Program for factorial of a number
  
