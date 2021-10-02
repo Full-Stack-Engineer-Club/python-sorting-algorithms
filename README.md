@@ -3,3 +3,6 @@
  - Bubble Sort
  - Insertion Sort
  - Heap Sort
+ - Python Program for simple interest
+ - Python Program for factorial of a number
+ - Python Program for simple interest
